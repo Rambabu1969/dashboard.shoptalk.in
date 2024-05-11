@@ -11,7 +11,7 @@ import Contact from './components/Contact';
 const App = () => {
   return (
     <Router>
-      <div className='container-fluid'>
+      <div className='container-fluid'> 
 
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
           <button className="navbar-toggler navbar-toggler-sm" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
